@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/illustrated-machine-learning.github.io/static/css/main.7b63136e.css",
+    "main.css": "/illustrated-machine-learning.github.io/static/css/main.c28513cf.css",
     "main.js": "/illustrated-machine-learning.github.io/static/js/main.e94da958.js",
     "static/js/787.c027e208.chunk.js": "/illustrated-machine-learning.github.io/static/js/787.c027e208.chunk.js",
     "index.html": "/illustrated-machine-learning.github.io/index.html",
-    "main.7b63136e.css.map": "/illustrated-machine-learning.github.io/static/css/main.7b63136e.css.map",
+    "main.c28513cf.css.map": "/illustrated-machine-learning.github.io/static/css/main.c28513cf.css.map",
     "main.e94da958.js.map": "/illustrated-machine-learning.github.io/static/js/main.e94da958.js.map",
     "787.c027e208.chunk.js.map": "/illustrated-machine-learning.github.io/static/js/787.c027e208.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b63136e.css",
+    "static/css/main.c28513cf.css",
     "static/js/main.e94da958.js"
   ]
 }
